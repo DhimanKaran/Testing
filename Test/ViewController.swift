@@ -35,6 +35,8 @@ class ViewController: UIViewController {
         print("Change 3")
         print("Change 4")
         print("Change 2")
+        print("New branch change 1")
+        print("New branch change 2")
         
     }
     
