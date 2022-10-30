@@ -32,7 +32,9 @@ class ViewController: UIViewController {
         
         collectionItems.collectionViewLayout = layout!
         
-        print("Change 1")
+        print("Change 3")
+        print("Change 4")
+        print("Change 2")
         
     }
     
