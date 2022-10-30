@@ -32,6 +32,8 @@ class ViewController: UIViewController {
         
         collectionItems.collectionViewLayout = layout!
         
+        print("Change 1")
+        
     }
     
     //    override func viewWillDisappear(_ animated: Bool) {
